@@ -1,16 +1,7 @@
-# flutter_application_5
+# Flutter Exp 4
 
-A new Flutter project.
+# Implementation of Navigation and Routing
 
-## Getting Started
+<img width="958" height="827" alt="Screenshot 2025-09-18 114417" src="https://github.com/user-attachments/assets/af924d24-d18e-490e-92a6-a003ab51b4e8" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="959" height="681" alt="Screenshot 2025-09-18 114434" src="https://github.com/user-attachments/assets/e8488f6f-083c-436e-89ad-8eb4280bd92c" />
